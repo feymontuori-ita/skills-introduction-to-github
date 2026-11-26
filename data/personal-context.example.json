@@ -1,0 +1,17 @@
+{
+  "_readme": "Copy to personal-context.local.json (git-ignored) and fill in real names. Labels here stay generic.",
+  "partner_name": "",
+  "trusted_contact": { "name": "", "phone": "" },
+  "notes": [],
+  "loops": [
+    { "key": "relationship_insecurity", "label": "Relationship insecurity", "trigger": "Hungry, sitting still, unmotivated", "thought": "Why would my partner want to be with me?", "reframe": "I don't need to audition for love." },
+    { "key": "future_tripping", "label": "Future-tripping", "trigger": "Uncertainty in the relationship", "thought": "I'm losing him.", "reframe": "I can't predict the future. I can live today." },
+    { "key": "work_conflict", "label": "Work conflict rumination", "trigger": "Someone went around me", "thought": "They went behind my back.", "reframe": "This deserves a conversation, not an entire day of suffering." },
+    { "key": "career_doubt", "label": "Career doubt", "trigger": "Low energy, scrolling", "thought": "I'm not qualified for anything.", "reframe": "My emotional state is not my résumé." },
+    { "key": "comparison", "label": "Comparison", "trigger": "Social media", "thought": "Everyone is ahead of me.", "reframe": "Their timeline is not my deadline." },
+    { "key": "lost_day", "label": "Lost-day spiral", "trigger": "Afternoon, nothing done", "thought": "I've wasted the entire day.", "reframe": "I can change the direction of the next five minutes." },
+    { "key": "urge_to_unload", "label": "Urge to unload", "trigger": "A thought I want to say right now", "thought": "I need to talk about this immediately.", "reframe": "I can hold a thought without expressing it." },
+    { "key": "waiting_to_feel_ready", "label": "Waiting to feel ready", "trigger": "Before any task", "thought": "I need to feel better first.", "reframe": "I can take action while feeling uncomfortable." }
+  ],
+  "body_checks": ["Haven't eaten", "Coffee before food", "Sitting still too long", "First hour of the day on my phone"]
+}
